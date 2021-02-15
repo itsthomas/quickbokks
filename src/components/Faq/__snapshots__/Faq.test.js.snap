@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Faq component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dlfnbm fiLKhl"
+  >
+    <div
+      class="sc-hKgILt chrFSH"
+    >
+      <h2
+        class="sc-eCssSg ckLFtq"
+      >
+        Frequently asked questions
+      </h2>
+      <ul
+        class="sc-jSgupP fgTMIE"
+      >
+        <hr />
+        <li
+          class="sc-gsTCUz efUBJI"
+        >
+          Sed erat dolor, pellentesque eu?
+        </li>
+        <hr />
+        <li
+          class="sc-gsTCUz efUBJI"
+        >
+          Praesent soliicitudin mauris a mattis?
+        </li>
+        <hr />
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;

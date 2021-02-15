@@ -1,0 +1,276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The App component should render 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="sc-bdfBwQ hRfulj"
+    >
+      <div
+        class="sc-gsTCUz dlOAAz"
+      >
+        <img
+          alt="logo"
+          src="logo.svg"
+        />
+      </div>
+      <ul
+        class="sc-dlfnbm iqhHhO"
+      >
+        <li>
+          <a
+            href="#item1"
+          >
+            Item 1
+          </a>
+        </li>
+        <li>
+          <a
+            href="#item2"
+          >
+            Item 2
+          </a>
+        </li>
+        <li>
+          <a
+            href="#item3"
+          >
+            Item 3
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="sc-fFubgz exASbi"
+    >
+      <div
+        class="sc-hKgILt ekhGYm"
+      >
+        <div
+          class="sc-eCssSg gqHjlA"
+        >
+          <h1
+            class="sc-jSgupP eaJicY"
+          >
+            The Calculator
+          </h1>
+          <div
+            class="sc-gKsewC klroQY"
+          >
+            <div
+              class="sc-iBPRYJ eFXLlj"
+            >
+              <label
+                for="total"
+              >
+                Total:
+              </label>
+              <div
+                class="sc-fubCfw cqQIyz"
+              >
+                <div
+                  class="sc-pFZIQ fxgwnC"
+                  data-testid="total-value"
+                >
+                  £0
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-jrAGrp iUbaSR"
+            >
+              <label
+                for="income-from-sales"
+              >
+                Income from sales:
+              </label>
+              <input
+                data-testid="total-part"
+                id="income-from-sales"
+                name="income-from-sales"
+                type="number"
+                value="0"
+              />
+            </div>
+            <div
+              class="sc-jrAGrp iUbaSR"
+            >
+              <label
+                for="commissions"
+              >
+                Commissions:
+              </label>
+              <input
+                data-testid="total-part"
+                id="commissions"
+                name="commissions"
+                type="number"
+                value="0"
+              />
+            </div>
+            <div
+              class="sc-jrAGrp iUbaSR"
+            >
+              <label
+                for="construction"
+              >
+                Construction:
+              </label>
+              <input
+                data-testid="total-part"
+                id="construction"
+                name="construction"
+                type="number"
+                value="0"
+              />
+            </div>
+            <div
+              class="sc-jrAGrp iUbaSR"
+            >
+              <label
+                for="other-income"
+              >
+                Other income:
+              </label>
+              <input
+                data-testid="total-part"
+                id="other-income"
+                name="other-income"
+                type="number"
+                value="0"
+              />
+            </div>
+          </div>
+          <div
+            class="sc-kEjbxe ecZjXs"
+          >
+            <label>
+              Share my results
+            </label>
+            <div
+              class="sc-iqHYGH cUbXTg"
+            >
+              <ul>
+                <li>
+                  <a
+                    href="https://www.facebook.com//"
+                    title="Facebook"
+                  >
+                    <i
+                      class="fa fa-facebook"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.linkedin.com/company/"
+                    title="LinkedIn"
+                  >
+                    <i
+                      class="fa fa-linkedin"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.pinterest.com/"
+                    title="Pinterest"
+                  >
+                    <i
+                      class="fa fa-pinterest"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.instagram.com/"
+                    title="Instagram"
+                  >
+                    <i
+                      class="fa fa-instagram"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.youtube.com/"
+                    title="YouTube"
+                  >
+                    <i
+                      class="fa fa-youtube"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://twitter.com/"
+                    title="Twitter"
+                  >
+                    <i
+                      class="fa fa-envelope"
+                    />
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://twitter.com/"
+                    title="Twitter"
+                  >
+                    <i
+                      class="fa fa-link"
+                    />
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-bqyKva cOBBWE"
+      >
+        <div
+          class="sc-kstrdz kLDyjG"
+        >
+          <h2
+            class="sc-hBEYos eIFLoC"
+          >
+            Frequently asked questions
+          </h2>
+          <ul
+            class="sc-fodVxV cwzQTu"
+          >
+            <hr />
+            <li
+              class="sc-dQppl JzqCl"
+            >
+              Praesent fermemtum posuere varius?
+            </li>
+            <hr />
+            <li
+              class="sc-dQppl JzqCl"
+            >
+              Integer semper efficitur lacus, nec semper lectus?
+            </li>
+            <hr />
+            <li
+              class="sc-dQppl JzqCl"
+            >
+              Sed erat dolor, pellentesque eu?
+            </li>
+            <hr />
+            <li
+              class="sc-dQppl JzqCl"
+            >
+              Praesent soliicitudin mauris a mattis?
+            </li>
+            <hr />
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
